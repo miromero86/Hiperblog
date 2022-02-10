@@ -23,12 +23,13 @@ body
 #cabecera
 {
     color: blue;
-    text-align: center;
 }
-#logo
+#container_footer
 {
-    max-width: 160px;
-    max-height: 160px;
-    display: block;
-    margin: auto;
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 3px;
+    
 }
