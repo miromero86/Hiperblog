@@ -18,8 +18,17 @@ body
 #container h1
 {
     font-size: 20px;
+    text-align: center;
 }
 #cabecera
 {
     color: blue;
+    text-align: center;
+}
+#logo
+{
+    max-width: 160px;
+    max-height: 160px;
+    display: block;
+    margin: auto;
 }
