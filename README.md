@@ -8,5 +8,6 @@ En este curso veremos:
 
 * Comandos de git
 * Como usar Github
+* Como ser realmente profesionales!
 
 ![](https://cdn-icons-png.flaticon.com/512/25/25231.png)
